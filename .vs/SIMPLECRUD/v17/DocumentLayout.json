@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\A POT\\SIMPLECRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|c:\\a pot\\simplecrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|c:\\a pot\\simplecrud\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|solutionrelative:services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|c:\\a pot\\simplecrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|c:\\a pot\\simplecrud\\data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|solutionrelative:data\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|c:\\a pot\\simplecrud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|c:\\a pot\\simplecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|c:\\a pot\\simplecrud\\services\\istudentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|solutionrelative:services\\istudentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|c:\\a pot\\simplecrud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A084A3-8B6D-42B1-8B0A-C91A83A7C389}|SIMPLECRUD.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\A POT\\SIMPLECRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\A POT\\SIMPLECRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T07:11:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\A POT\\SIMPLECRUD\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Services\\StudentService.cs",
+              "ToolTip": "C:\\A POT\\SIMPLECRUD\\Services\\StudentService.cs",
+              "RelativeToolTip": "Services\\StudentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:29:51.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentInterface.cs",
+              "DocumentMoniker": "C:\\A POT\\SIMPLECRUD\\Services\\IStudentInterface.cs",
+              "RelativeDocumentMoniker": "Services\\IStudentInterface.cs",
+              "ToolTip": "C:\\A POT\\SIMPLECRUD\\Services\\IStudentInterface.cs",
+              "RelativeToolTip": "Services\\IStudentInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:30:30.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\A POT\\SIMPLECRUD\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\A POT\\SIMPLECRUD\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:19:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\A POT\\SIMPLECRUD\\Data\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Data\\DapperContext.cs",
+              "ToolTip": "C:\\A POT\\SIMPLECRUD\\Data\\DapperContext.cs",
+              "RelativeToolTip": "Data\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T06:07:37.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\A POT\\SIMPLECRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\A POT\\SIMPLECRUD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T05:59:05.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\A POT\\SIMPLECRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\A POT\\SIMPLECRUD\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:57:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\A POT\\SIMPLECRUD\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\A POT\\SIMPLECRUD\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T05:44:52.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
